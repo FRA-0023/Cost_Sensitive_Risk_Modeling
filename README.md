@@ -3,6 +3,7 @@
 [![Platform](https://img.shields.io/badge/Platform-KNIME%20Analytics-FFA500?style=flat&logo=knime)](https://www.knime.com/)
 [![Methodology](https://img.shields.io/badge/Methodology-Cost--Sensitive%20Learning-blue)](https://en.wikipedia.org/wiki/Cost-sensitive_learning)
 [![Risk Strategy](https://img.shields.io/badge/Domain-Behavioral%20Risk%20Stratification-red)](#)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > Machine learning under asymmetric loss functions: preserving 5-class ordinal risk resolution on severely imbalanced student behavioral data.
 
